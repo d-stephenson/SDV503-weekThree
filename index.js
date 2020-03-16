@@ -68,7 +68,7 @@ switch (person) {
         break;
     }*/
 
-const foo = -5;
+/*const foo = -5;
 switch (foo) {
     case 1:
     case 2:
@@ -82,7 +82,60 @@ switch (foo) {
         break;
     default:
         console.log('I don\'t like this number.');      
-}
+}*/
+
+/*const foo = 1;
+let output = '';
+switch (foo) {
+  case 0:
+    output += 'So ';
+  case 1:
+    output += 'How ';
+    output += 'Old ';
+  case 2:
+    output += 'Are ';
+  case 3:
+    output += 'You';
+  case 4:
+    output += '?';
+    console.log(output);
+    break;
+  case 5:
+    output += '!';
+    console.log(output);
+    break;
+  default:
+    console.log('Please pick a number from 0 to 5!');
+}*/
+
+/*const birthYear = '1983';
+switch (birthYear) {
+  case '1981': {
+    let age = '38';
+    console.log(age);
+    break;
+  }
+  case '1982': {
+    let age = '37';
+    console.log(age);
+    break;
+  }
+  case '1983': {
+    let age = '36';
+    console.log(age);
+    break;
+  }
+  case '1984': {
+    let age = '35';
+    console.log(age);
+    break;
+  }
+  default: {
+    console.log('Please input your year of birth');
+    break;
+  }
+}*/
+
 
 
 
