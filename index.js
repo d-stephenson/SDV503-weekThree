@@ -136,8 +136,17 @@ switch (birthYear) {
   }
 }*/
 
+/*let time = 9;
+if (time <= 8) {
+  greeting = "Good day";
+} else {
+  greeting = "Good evening";
+}
+console.log(greeting);*/
 
-
+let time = 9; 
+time <=8 ? console.log("Good day") : console.log("Good evening"); 
+ 
 
 
 
