@@ -144,7 +144,7 @@ if (time <= 8) {
 }
 console.log(greeting);*/
 
-let time = 9; 
+let time = 5; 
 time <=8 ? console.log("Good day") : console.log("Good evening"); 
  
 
