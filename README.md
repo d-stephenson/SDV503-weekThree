@@ -20,7 +20,7 @@ We also looked a ternary operators and how they can produce the same output as a
 
 In conclusion, Javascript has many ways of performing the same operation, with no obvious rules as to when to use what. I'm sure once you are familiar with all the various routes of getting to the same outcome, and being able to decide which way of doing it is best, then it could be highly valuable...for learning however, definitely not the easiest thing to get your head around!!! 
 
-Link to labThree 
+Link to labThree https://github.com/d-stephenson/SDV503-labThree
 
 Regards
 
